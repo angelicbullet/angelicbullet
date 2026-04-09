@@ -1,1 +1,1 @@
-<p align="center"><img width="700" height="700" src="(https://files.catbox.moe/gbbssl.png)" />
+<p align="center"><img width="700" height="700" src="https://media.discordapp.net/attachments/1490175118046138443/1491606797755093072/Untitled546_20260408200727.png?ex=69d84e95&is=69d6fd15&hm=da921c78fd6c78188c0d8c875d0abf7ba37f308ad7ff77be7c53269675c325cf&=&format=webp&quality=lossless&width=717&height=538" />
